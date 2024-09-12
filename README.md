@@ -20,7 +20,7 @@ We are developing a Smart Classroom Management System to enhance education with 
 
 ---
 
-### 1. Smart Attendance System
+### 1.Smart Attendance System
 
 Smart Attendance System automates the process of taking attendance, offering multiple options like facial recognition, fingerprint sensors, and more. While such technologies exist, they are often expensive for smaller institutions.
 
