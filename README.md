@@ -1,43 +1,73 @@
+# FLOAT X: Smart Classroom Management System
 
-# FLOAT X
-This is the project being inttialised by participate team in Smart India Hackathon ( Sih ) as project. 
+## Project Information
 
-### Problem Statement Info
+- Project ID: SIH1625
+- Theme: Smart Automation
+- Title: Smart Classroom Management System to Enhance Education
 
-1. PROJECT ID - SIH1625
-2. THEME - SMART AUTOMATION
-3. TITLE - SMART CLASSROOM MANAGEMENT SYSTEM TO ENHANCE EDUCATION.
+## Proposed Solution / Project Idea
 
-## PROPOSED SOLUTION / PROJECT IDEA 
+We are developing a Smart Classroom Management System to enhance education with the following features:
 
-We are creating a smart classroom management system for enhance education with these initial feature's mention below - 
+### Key Features
 
-* >SMART ATTENDANCE SYSTEM 
-* >INTERACTIVE LEARNING 
-* >SAFETY AND SECURITY. 
-* >RESOURCE MANAGEMENT 
-* >DATA ANALYTICS 
+- Smart Attendance System
+- Interactive Learning
+- Safety and Security
+- Resource Management
+- Data Analytics
 
-### SMART ATTENDANCE SYSTEM. 
+---
 
-SMART ATTENDANCE SYSTEM A SYSTEM WHERE WE CAN USE AUTOMATION TO TAKING ATTENDANCE INSTEAD OF MANUAL
-WORK , SUCH AS FACIAL RECOGNISATION , FINGERPRINT CENSOR AND ALL. 
-ALTHOUGH, SUCH THINGS ARE ALREADY EXIST, BUT EVERY INSTITUTE CANNOT AFFORD IT DUE TO
-IT COST. IT MAY COULD BE EXPENSIVE FOR MANY SMALL LEVEL INSTITUTION
+### 1. Smart Attendance System
 
-HENCE WE, WE ARE DEVELOPING AN SMART ATTENDANCE SYSTEM WHERE IF INSTITUTION DOES NOT HAVE 
-HARDWARE FOR IT , THE TEACHER CAN USE THEIR MOBILE PHONE CAMERA TO RECOGNISE THE STUDENT'S
-ATTENDANCE. ALSO IT WILL HAVE MANUAL CONTROL FOR TEACHER/EDUCATOR HOW HE/SHE WANTS TO TAKE 
-THE ATTENDANCE. 
+Smart Attendance System automates the process of taking attendance, offering multiple options like facial recognition, fingerprint sensors, and more. While such technologies exist, they are often expensive for smaller institutions.
 
-#### Another Idea.
- 
-Primary , We were about to develop an GPS based attendance system , where students needs to 
-keep their gps on in classroom, and mark their attendance by their self. 
-If student is in college or in the campus of institution , attendance will be marked , otherwise it will denied.
-**To prevent** Student from just marking proxy and go out of the college, We were about to introduce 
-an system that will check their location multiple times during lecture.
-Also , **To prevent** software error, We were about to give control to the teacher/educator for that as well. 
-    
+We are developing a solution that allows teachers to use their mobile phone cameras to take attendance, making the system more accessible and cost-effective. The system will also offer manual control for teachers who wish to take attendance traditionally.
 
-### INTERACTIVE LEARNING 
+#### Alternative Solution (GPS-Based Attendance System)
+
+We also considered a GPS-based system where students can mark their attendance using their smartphones. If a student is within the campus, the attendance is registered. To prevent proxy attendance, the system will check student locations multiple times during a lecture. Teachers will have manual control to handle any issues.
+
+---
+
+### 2. Interactive Learning
+
+We aim to create a student community similar to social media but specific to their institution. This platform will allow students to interact, ask and answer questions, and collaborate. Additionally, the platform will host educational games, quizzes, and events to engage students further.
+
+---
+
+### 3. Safety and Security
+
+We are implementing anonymous reporting systems for students and women, allowing them to report issues directly to higher authorities. To maintain accountability, each report will be associated with a student ID (without revealing the identity). However, in case of serious incidents, the student’s identity can be revealed if necessary.
+
+---
+
+### 4. Resource Management
+
+We are building a central resource management system that allows institutions to manage computing devices and other resources from a single location.
+
+---
+
+### 5. Data Analytics
+
+Our data analytics system will provide student profiles displaying their attendance, assignments, and performance. The system will also offer personalized suggestions for improvement and track various metrics like marks and credit scores.
+
+---
+
+## Tech Stack
+
+- Frontend: React Native (Platform-independent mobile application development)
+- Backend: Spring Boot
+- Database: MongoDB
+- Development Approach: Agile Methodology
+
+---
+
+## Contributors
+
+- Harsh Parmar
+- Hemant Sahu
+
+---
