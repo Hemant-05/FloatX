@@ -71,4 +71,4 @@ Our data analytics system will provide student profiles displaying their attenda
 - Hemant Sahu
 - Harshita Barfa
 - Ankita patil
-- 
+- Anuj Gupta
